@@ -2,7 +2,10 @@
 title: "About me"
 ---
 
-## Header
+## Welcome to my webpage
 
 Hi! I am a postdoc in Statistics at Inria Grenoble-Rhône-Alpes in the Mistis team (Grenoble, France)
 
+```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("io.jpg")
+```

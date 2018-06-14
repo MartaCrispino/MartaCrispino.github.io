@@ -25,7 +25,7 @@ navbar:
     href: https://MartaCrispino.github.io/blog/
 output:
   html_document:
-    theme: spacelab
+    theme: simplex
     highlight: textmate
     lib_dir: site_libs
     self_contained: no
